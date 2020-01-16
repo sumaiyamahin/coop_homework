@@ -1,0 +1,48 @@
+Question 1
+
+I think that Android Studio is the best IDE when it comes to programming for app development. It has a great code autocomplete, has a very easy in-built drag-and-drop feature that helps with front-end, and a built-in simulator to run the app.
+
+It has Java code autocomplete, which can facilitate faster coding and also comes in handy when it comes to helping new java programmers and app developers learn fast. 
+It gives you precise solutions and helps further in the debugging process.
+
+The built-in drag an drop feature helps tremendously with front end. It is similar to Scene Builder, but with Android Studio, the drag and drop feature is already built in. 
+It generates instances of the object being placed on the app in the xml file automatically, which is very useful later on, as the programmer then has tremendous help with the front-end of the app.
+
+The built in simulator is amazing in running the app and testing if the code has actually worked or not. Most of the time, we dont even have to connect ot an actually physical device. 
+The simulator can help us visualize the app on our desired android device virtually.
+
+
+
+Question 2
+
+touch a.txt|touch b.txt|﻿touch c.bal|touch d.py|touch e.py
+
+
+for x in *.text
+
+do mv "$x" "new_$f"
+
+done
+
+
+rm *.bak  
+
+
+for y in *.py
+
+do check= `cat $y|wc -w`
+
+if test $check -ge 15
+
+then
+
+mv "$y" "$long_$y"
+
+else
+
+mv "$y" "$short_$y"
+
+fi
+
+done
+
